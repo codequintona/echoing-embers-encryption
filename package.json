@@ -1,0 +1,20 @@
+{
+  "name": "echoing-embers-encryption",
+  "version": "1.0.1",
+  "description": "A lightweight JavaScript library for basic encryption and decryption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codequintona/echoing-embers-encryption"
+  },
+  "author": "Mikhail Petrov",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "uuid": "^8.3.2",
+    "lodash": "^4.17.21"
+  }
+}
